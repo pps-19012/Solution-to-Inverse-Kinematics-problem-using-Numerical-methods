@@ -8,3 +8,5 @@ uses one of the methods. We have also simulated the working of the methods in Un
 
 ### Demo
 https://pushpendra.itch.io/robot-arm
+
+![demoimage](https://github.com/pps-19012/Solution-to-Inverse-Kinematics-problem-using-Numerical-methods/blob/main/robotarm.png)
